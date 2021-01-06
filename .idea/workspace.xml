@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="efcb0fa5-b75a-4d4b-90b3-968a33335fc2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Chapter 9/code4/debug9-4_txt.js" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/../Chapter 9/code1/clock9-1_txt.js" root0="SKIP_INSPECTION" />
+  </component>
+  <component name="JupyterTrust" id="9d8d659a-2ba1-4478-8755-715ce60f6850" />
+  <component name="ProjectId" id="1mDtGg60UG8o73e1OPEIVFQ0jcV" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Chapter 9/code4/code9-4_styles.css" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\17186\PycharmProjects\term project\term project\css" />
+      <recent name="C:\Users\17186\PycharmProjects\term project\term project\images" />
+      <recent name="C:\Users\17186\PycharmProjects\term project" />
+      <recent name="C:\Users\17186\PycharmProjects" />
+      <recent name="C:\Users\17186\PycharmProjects\term project\term project" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="efcb0fa5-b75a-4d4b-90b3-968a33335fc2" name="Default Changelist" comment="" />
+      <created>1609039894452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1609039894452</updated>
+      <workItem from="1609039918725" duration="1970000" />
+      <workItem from="1609093261282" duration="13492000" />
+      <workItem from="1609203796537" duration="4531000" />
+      <workItem from="1609276627911" duration="5225000" />
+      <workItem from="1609289904476" duration="1129000" />
+      <workItem from="1609356333425" duration="452000" />
+      <workItem from="1609456464241" duration="5707000" />
+      <workItem from="1609711066571" duration="3778000" />
+      <workItem from="1609801608141" duration="2788000" />
+      <workItem from="1609871210399" duration="6308000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="398" y="142" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1609459760286">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="398" y="142" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.680@0.0.1280.680" timestamp="1609459760286" />
+    <state x="691" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1609356479235">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="691" y="87" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1280.680@0.0.1280.680" timestamp="1609356479235" />
+    <state x="421" y="0" width="438" height="600" key="FileChooserDialogImpl" timestamp="1609461208255">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="421" y="0" width="438" height="600" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1609461208255" />
+    <state x="625" y="0" width="662" height="687" key="dock-window-1" timestamp="1609093808263">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="625" y="0" width="662" height="687" key="dock-window-1/0.0.1280.680@0.0.1280.680" timestamp="1609093808263" />
+    <state x="648" y="0" width="450" height="666" key="dock-window-2" timestamp="1609203782450">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="648" y="0" width="450" height="666" key="dock-window-2/0.0.1280.680@0.0.1280.680" timestamp="1609203782450" />
+    <state x="633" y="0" width="653" height="687" key="dock-window-3" timestamp="1609126729814">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="633" y="0" width="653" height="687" key="dock-window-3/0.0.1280.680@0.0.1280.680" timestamp="1609126729814" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1609460250332">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1609460250332" />
+  </component>
+</project>

@@ -1,0 +1,59 @@
+/*Michali zakutinsky
+css for home page
+ */
+
+/*style for heading 1
+*/
+
+h1{
+    font-family: sans-serif;
+    color: grey;
+}
+/*black background color to the top navigation */
+/* links inside the navigation bar */
+
+/* Change the color of links on hover */
+
+
+/* color to the active/current link */
+
+article{
+  background-color: purple;
+  border-color: grey;
+  border-style: solid;
+  color: grey;
+}
+footer{
+  color:white;
+  text-align: center;
+}
+aside a{
+  color: white;
+}
+table{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+table, th, td {
+  border: 1px solid black;
+  border-collapse: collapse;
+}
+th, td {
+  padding: 15px;
+  text-align: left;
+}
+#t01 tr:nth-child(even) {
+  background-color: #eee;
+}
+#t01 tr:nth-child(odd) {
+ background-color: #fff;
+}
+#t01 th {
+  background-color: black;
+  color: white;
+}

@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Shoe Stop Survey</title>
+    <link href="css/allpages.css" rel="stylesheet"/>
+</head>
+<body>
+<header>
+    <a href="homepage.html"><img src="images/shoe_stop.png" alt="shoestop"/> </a>
+</header>
+<nav>
+    <a href="flats.html"><img src="images/toryburchflats.png" height="180" width="180" alt="Flats"/></a>
+    <a href="boots.html"><img src="images/uggboots.png" height="180" width="180" alt="Boots"/></a>
+    <a href="Pumps.html"><img src="images/samedlemanpumps.png" height="180" width="180" alt="Pumps"/></a>
+</nav>
+
+<form action="homepage.html" method="post">
+    <fieldset name="info">
+        <legend>Your Information</legend>
+        <label for="fname">First Name:</label><br>
+        <input type="text" id="fname" name="fname"><br>
+        <label for="lname">Last Name:</label><br>
+        <input type="text" id="lname" name="lname"><br>
+        <label for="stadd">Street Address:</label><br>
+        <input type="text" id="stadd" name="stadd"><br>
+        <label for="city">City:</label><br>
+        <input type="text" id="city" name="city"><br>
+        <label for="zip">Zip Code:</label><br>
+        <input type="text" id="zip" name="zip"><br>
+        <label for="num">Phone Number:</label><br>
+        <input type="text" id="num" name="num"><br>
+        <label for="email">Email:</label><br>
+        <input type="text" id="email" name="email"><br>
+
+    </fieldset>
+
+    <fieldset name="communications">
+        <legend>Communication Preferences</legend>
+        <input type="radio" id="sub" name="opt" value="sub">
+        <label for="sub">I would like to receive promotional emails. </label><br>
+        <input type="radio" id="unsub" name="opt" value="unsub">
+        <label for="unsub">I would like to unsubscribe from all emails.</label><br>
+        <input type="submit" value="Submit">
+    </fieldset>
+</form>
+
+<footer>
+    Shoe Stop &#8226;792 Elvira Avenue &#8226; Far Rockaway N.Y. 11691
+</footer>
+</body>
+</html>

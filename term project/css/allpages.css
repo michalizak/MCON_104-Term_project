@@ -1,0 +1,82 @@
+/*all pages css
+mz
+12/28/2020
+ */
+header{
+  background-color: purple;
+  border-color: grey;
+  border-style: solid;
+  text-align: center;
+}
+
+nav{
+  background-color: purple;
+  border-style: solid;
+  border-color: gray;
+  text-align: center;
+}
+
+h1{
+    font-family: sans-serif;
+    color: purple;
+}
+
+body{
+    background-color: purple;
+    border-style: solid;
+    border-color: grey;
+    color: grey;
+    font-family: Calibri, cursive;
+    text-align: center;
+}
+aside a{
+    color: white;
+}
+footer{
+    color: white;
+}
+.gridflats {
+  display: grid;
+  grid-template-columns: auto auto auto auto;
+  grid-gap: 10px;
+  background-color: black;
+  padding: 10px;
+    align-content: center;
+}
+.grid-container > div {
+  background-color: rgba(255, 255, 255, 0.8);
+  border: 1px solid black;
+  text-align: center;
+  font-size: 30px;
+}
+/* First the Grid */
+.gallery-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  grid-gap: 1.5rem;
+  justify-items: center;
+  margin: 0;
+  padding: 0;
+}
+
+/* The Picture Frame */
+.gallery-frame {
+  padding: .5rem;
+  font-size: 1.2rem;
+  text-align: center;
+  background-color: grey;
+  color: #d9d9d9;
+}
+
+/* The Images */
+.gallery-img {
+  max-width: 100%;
+  height: auto;
+  object-fit: cover;
+  transition: opacity 0.25s ease-in-out;
+}
+
+
+.gallery-img:hover {
+  opacity: .7;
+}
